@@ -1,1 +1,1 @@
-# 315-Individual-Project-Web-Development-
+# Launch from local host i.e live server from VS code
